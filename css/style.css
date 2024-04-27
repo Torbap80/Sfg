@@ -1,0 +1,47 @@
+*{
+margin: 0;
+padding: 0;
+}
+header{
+text-align: center;
+background: brown;
+color: black;
+height: 40px;
+font-size: 20px;
+}
+nav{
+text-align: center;
+background: blue;
+color: black;
+height: 40px;
+font-size: 20px;
+}
+section{
+display: flex;
+}
+.laft{
+width: 30%;
+height: 120px;
+background: #f4ffd5;
+color: black;
+
+}
+.content{
+width: 40%;
+height: ;
+}
+.right{
+width: 30%;
+}
+.one{
+width: 50%;
+}
+.two{
+width: 50%;
+}
+footer{
+text-align: center;
+}
+
+
+
